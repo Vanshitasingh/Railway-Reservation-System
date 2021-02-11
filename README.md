@@ -6,3 +6,10 @@ Using Basic knowledge of Data Structure - Arrays and Linked lists, we implemente
 1. Devayani Shivamkar
 1. Gauri Shewale
 1. Meera Wadher
+
+### Data Strtuctures used
+* Linked lists
+* Arrays
+
+### Language used 
+C++
